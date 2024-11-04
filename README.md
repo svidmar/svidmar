@@ -4,8 +4,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svidmar&layout=compact&size_weight=0.5&count_weight=0.5)
 
-![Total Commits](https://img.shields.io/github/commit-activity/t/svidmar/svidmar?label=Total%20Commits&style=for-the-badge)
-
 ### 🔗 Connect with me
 [![GitHub followers](https://img.shields.io/github/followers/svidmar?label=Follow&style=social)](https://github.com/svidmar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/søren-vidmar/)  
