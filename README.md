@@ -1,6 +1,6 @@
 # 👋
 
-![Open Science](https://img.shields.io/badge/Open%20Science-Advocate-blue?style=for-the-badge)
+![Open Science](https://img.shields.io/badge/Open%20Science-FTW-blue?style=for-the-badge)
 
 ### 🔗 Connect with me
 [![GitHub followers](https://img.shields.io/github/followers/svidmar?label=Follow&style=social)](https://github.com/svidmar)
