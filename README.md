@@ -5,11 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/søren-vidmar/)  
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=svidmar&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=svidmar&theme=radical)
-
-### 🏆 Profile Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=svidmar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🛠 Languages and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
