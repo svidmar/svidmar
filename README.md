@@ -1,5 +1,5 @@
-![GitHub commit activity](https://img.shields.io/github/commit-activity/:t/:svidmar/)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=svidmar)](https://git.io/streak-stats)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)[![GitHub Streak](https://streak-stats.demolab.com/?user=svidmar)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svidmar)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
