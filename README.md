@@ -1,4 +1,4 @@
-# Hi there, I'm svidmar! 👋
+# 👋
 
 ### 🔗 Connect with me
 [![GitHub followers](https://img.shields.io/github/followers/svidmar?label=Follow&style=social)](https://github.com/svidmar)
