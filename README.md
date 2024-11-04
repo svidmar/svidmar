@@ -5,9 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/søren-vidmar/)  
 [![ORCID](https://img.shields.io/badge/ORCID-Connect-green?style=for-the-badge&logo=orcid)](https://orcid.org/0000-0003-3055-6053)
 
-### 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=svidmar&theme=radical)
-
 ### 🛠 Languages and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
