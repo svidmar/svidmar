@@ -2,7 +2,7 @@
 
 ![Open Science](https://img.shields.io/badge/Open%20Science-FTW-blue?style=for-the-badge)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svidmar&layout=compact&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svidmar&layout=compact&size_weight=0.5&count_weight=0.5&v=1)
 
 ### 🔗 Connect with me
 [![GitHub followers](https://img.shields.io/github/followers/svidmar?label=Follow&style=social)](https://github.com/svidmar)
